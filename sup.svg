@@ -1,0 +1,20 @@
+<svg width="1920.0000000000002" height="1080" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="1082" width="1922" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(21.493488110405263,0,0,16.011931233728486,-16126.238507970242,-5982.3391682319025) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_21" y="420.856091" x="757.118086" stroke-width="0" fill="#000000">a</text>
+  <text stroke="#000000" transform="matrix(11.757011956895955,0,0,9.108123705996714,-7740.504243229066,-1720.3539571180522) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_22" y="260.145274" x="719.311979" stroke-width="0" fill="#000000">_</text>
+  <g id="svg_26">
+   <text stroke="#000000" transform="matrix(4.8840338200487565,0,0,11.36103010975958,-4254.695126098702,-3356.176627678421) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_23" y="353.981615" x="1088.7969" stroke-width="0" fill="#000000">{</text>
+   <text stroke="#000000" transform="matrix(4.8840338200487565,0,0,11.36103010975958,-3889.2404294434286,-3325.26752368882) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_24" y="350.78088" x="1128.629861" stroke-width="0" fill="#000000">}</text>
+   <text stroke="#000000" transform="matrix(8.338834949804891,0,0,7.592081708028672,-9216.876279282895,-1903.4070908974013) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_25" y="322.479641" x="1251.139891" stroke-width="0" fill="#000000">...</text>
+  </g>
+ </g>
+</svg>

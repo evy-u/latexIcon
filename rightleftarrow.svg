@@ -1,0 +1,27 @@
+<svg width="1919.9999999999998" height="1080" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="1082" width="1922" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_31">
+   <text stroke="#000" transform="matrix(36.1422000242236,0,0,27.685555863553876,-24035.81292072952,-11921.956150514825) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="456.121192" x="667.493823" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">a</text>
+   <text stroke="#000" transform="matrix(36.1422000242236,0,0,27.685555863553876,-24035.81292072952,-11921.956150514825) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="457.055032" x="702.921701" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">b</text>
+   <text stroke="#000" transform="matrix(32.022540026896415,0,0,11.058866568517633,-26256.820241766494,-4745.626986535455) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="494.744318" x="846.363636" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+   <text stroke="#000" transform="matrix(7.185285566008523,0,0,6.203847533777252,-5768.015495819412,-1335.967092884549) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_15" y="284.183389" x="907.50757" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">条件1</text>
+   <text stroke="#000" transform="matrix(21.45919774267439,0,0,9.315542252757071,-15236.74822872768,-3316.1500163263736) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_17" y="422.017045" x="744.545455" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+   <path stroke="#000" id="svg_24" d="m669.15124,402.209565" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none"/>
+   <rect stroke="#0f0f00" id="svg_25" height="24.036815" width="752.094865" y="482.332109" x="606.16328" stroke-width="NaN" fill="#000000"/>
+   <rect stroke="#000" height="0" id="svg_26" width="3.760474" y="534.41171" x="900.4204" fill-opacity="null" stroke-opacity="null" stroke-width="NaN" fill="none"/>
+   <rect stroke="#0f0f00" id="svg_27" height="24.036815" width="752.094865" y="532.408679" x="604.283043" stroke-width="NaN" fill="#000000"/>
+   <rect stroke="#0f0f00" transform="matrix(0.9892523228212445,0.321024402412276,-0.30133951986967855,1.0538748316383741,164.83396008034106,-415.7951741341261) " id="svg_28" height="18.181873" width="140.000032" y="445.653434" x="1203.636335" stroke-width="NaN" fill="#000000"/>
+   <rect stroke="#0f0f00" transform="matrix(0.9942888350930215,0.30285096055789884,-0.2842804545723791,1.0592403520420322,152.44582112825697,-212.3499923154772) " id="svg_29" height="18.181873" width="140.000032" y="534.744342" x="612.727266" stroke-width="NaN" fill="#000000"/>
+   <text stroke="#000" transform="matrix(7.185285566008523,0,0,6.203847533777252,-5768.015495819412,-1335.967092884549) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_30" y="331.000162" x="910.386037" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">条件2</text>
+  </g>
+ </g>
+</svg>

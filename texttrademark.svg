@@ -1,0 +1,15 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="1082" width="1922" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <text stroke="#000" transform="rotate(-92.17877960205078 938.6688842773439,669.9683837890626) matrix(54.764507925510834,0,0,36.216326443644896,-34543.02494947877,-11427.624381690539) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="342.365645" x="635.895666" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="matrix(48.75126153297951,0,0,39.393222298742316,-49435.06588117877,-15426.522792759095) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="413.712219" x="1021.668053" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">™</text>
+ </g>
+</svg>
