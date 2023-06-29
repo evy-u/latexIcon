@@ -1,0 +1,20 @@
+<svg width="1919.9999999999998" height="1080" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="1082" width="1922" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_16">
+   <text stroke="#000" transform="matrix(34.94936456577898,0,0,25.13020273516907,-23214.148147746222,-10795.547805876902) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="458.147005" x="667.701916" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">a</text>
+   <text stroke="#000" transform="matrix(34.94936456577898,0,0,25.13020273516907,-23214.148147746222,-10795.547805876902) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="459.080845" x="703.129794" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">b</text>
+   <text stroke="#000" transform="matrix(30.965669631958008,0,0,10.038142642239054,-25361.853448313428,-4281.587686242225) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="499.815883" x="846.598501" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+   <text stroke="#000" transform="matrix(34.94936456577898,0,0,25.13020273516907,-23214.148147746222,-10795.547805876902) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_14" y="459.158665" x="680.343582" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">→</text>
+   <text stroke="#000" transform="matrix(7.569585186331266,0,0,7.385864413135492,-6151.608450169022,-1699.1629872206206) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_15" y="297.230425" x="909.755263" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">条件</text>
+  </g>
+ </g>
+</svg>
