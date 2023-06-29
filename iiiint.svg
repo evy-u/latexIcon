@@ -1,0 +1,21 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="1082" width="1922" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <text stroke="#000" transform="rotate(-92.17877960205078 938.6688842773439,669.9683837890626) matrix(54.764507925510834,0,0,36.216326443644896,-34543.02494947877,-11427.624381690539) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="342.365645" x="635.895666" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="matrix(31.946935653686523,0,0,35.171966498763815,-22660.034205182805,-14098.304554303451) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="425.761653" x="727.331188" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">∫</text>
+  <text stroke="#000" transform="matrix(31.946935653686523,0,0,35.17196649876381,-22513.367533429875,-14096.082331975265) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="425.761653" x="727.331188" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">∫</text>
+  <text stroke="#000" transform="matrix(31.946935653686523,0,0,35.17196649876381,-22366.70086167695,-14093.86010964708) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_14" y="425.761653" x="727.331188" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">∫</text>
+  <text stroke="#000" transform="matrix(31.946935653686523,0,0,35.17196649876381,-22222.256403669136,-14087.193442662521) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_15" y="425.761653" x="727.331188" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">∫</text>
+  <ellipse id="svg_17" cy="472.222217" cx="965.555556" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path id="svg_21" d="m-657.800646,116.8333l0,0c0,-0.411452 0.497463,-0.745 1.111115,-0.745l0,0c0.294686,0 0.577303,0.078491 0.785677,0.218205c0.208375,0.139715 0.325438,0.329208 0.325438,0.526795l0,0c0,0.411452 -0.497463,0.745 -1.111115,0.745l0,0c-0.613652,0 -1.111115,-0.333548 -1.111115,-0.745zm0.555558,0l0,0c0,0.205726 0.248732,0.3725 0.555558,0.3725c0.306826,0 0.555558,-0.166774 0.555558,-0.3725c0,-0.205726 -0.248732,-0.3725 -0.555558,-0.3725l0,0c-0.306826,0 -0.555558,0.166774 -0.555558,0.3725z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text stroke="#000" transform="rotate(-0.048913415521383286 914.1082153322092,470.8116760254732) matrix(84.2359111692325,0,0,19.168027252604546,-33781.11102402536,-8735.196067173289) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_23" y="488.591795" x="404.633514" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">○</text>
+ </g>
+</svg>

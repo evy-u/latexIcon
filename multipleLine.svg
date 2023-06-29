@@ -1,0 +1,20 @@
+<svg width="1919.9999999999998" height="1080" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="1082" width="1922" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_10">
+   <text stroke="#000" transform="matrix(25.620493456159824,0,0,9.210608752599303,-17237.714958984237,-2083.8866455070074) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="265.456008" x="700.270398" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+   <text stroke="#000" transform="matrix(7.761236740596197,0,0,10.13857096469116,-4763.1180557156595,-2221.2820716924048) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="274.61939" x="625.703937" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">f(n)</text>
+   <text stroke="#000" transform="matrix(10.409055800730226,0,0,39.973142649815244,-6502.9210923872115,-17243.791829518825) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="451.583761" x="647.269001" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">｛</text>
+   <text stroke="#000" transform="matrix(8.472913356067444,0,0,11.422937913340325,-5391.831629899367,-4349.60885899152) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="412.583272" x="697.527217" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">n,   if n is even</text>
+   <text stroke="#000" transform="matrix(7.759867703865012,0,0,10.632612714463788,-6062.700493072379,-6980.330831658623) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="735.973643" x="847.552146" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">3n+1, if n id odd</text>
+  </g>
+ </g>
+</svg>
